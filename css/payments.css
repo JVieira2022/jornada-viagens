@@ -35,7 +35,7 @@
     background-size: cover;
   }
 
-  .payments .content-container .image-gallery .image.third {
+  .payments .content-container .image-gallery .image.thirdy {
     background: url(../img/gallery3-tablet.png) no-repeat;
     background-size: cover;
   }
@@ -50,5 +50,6 @@
   }
   .payments .content-container .image-gallery {
     width: 790px;
+    margin: 0;
   }
 }
